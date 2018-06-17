@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:design:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/77e2d42bc7726b66c6f89fe61263cbb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/3ea197f6b1dd10bb1d730d6ee35d1029/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cd212eba03fa582e6e9e769e3cbe4783/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/45640491904f59d9a7d1c827f8734bfe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/73b976117f0587d2135e19e4cdb7feca/AndroidManifest.xml:17:1-24:12
+MERGED from [uk.co.samuelwall:material-tap-target-prompt:2.3.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/material-tap-target-prompt-2.3.0.aar/45edef022df7b26eff86e7cdec2a119a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/5820c4e2eac9060109e2775c0c245b52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/597b2d9fc132de505acc898bd49d12fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/c5f6886a418fd95d39a600025ac2a3dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3b8aeb6be859c89a7a3d101baa071b07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/067979af9e8edcfd7d97f69295a62f56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/995a976b478fc855b24178446cac2779/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/fefddeee55fa937db8bae4fe036ee600/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/3f9cf952c48fbcbeab701cd0b1253ad6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/7042d7b02cf4cb3ff666c04390d5ffc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/46db0fb00de05f1fd2baf5febe315677/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/309c3529a0fa5809d688f36e569be151/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/3b9ab3118f6a629fd8ad636d2878cca1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/74db4d342be3a740cded3ba23760d5b2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4b8277c538b7533f32be52ae58ff39e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4784d967c3d4029bc2cbd92b5e309451/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/652ac74eb5eeabfa8597bd337203314b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:5:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cd212eba03fa582e6e9e769e3cbe4783/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cd212eba03fa582e6e9e769e3cbe4783/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:7:9-40
+	android:allowBackup
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:9:9-40
+activity#com.example.jackiemun1.shoppinglist.Splash
+ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:11:9-18:20
+	android:label
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:13:13-41
+	android:name
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:12:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.jackiemun1.shoppinglist.MainActivity
+ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:21:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:23:13-27:29
+category#android.intent.category.DEFAULT
+ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:26:27-73
+meta-data#preloaded_fonts
+ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:30:9-32:57
+	android:resource
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:32:13-54
+	android:name
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml:31:13-43
+uses-sdk
+INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/77e2d42bc7726b66c6f89fe61263cbb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/77e2d42bc7726b66c6f89fe61263cbb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/3ea197f6b1dd10bb1d730d6ee35d1029/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/3ea197f6b1dd10bb1d730d6ee35d1029/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cd212eba03fa582e6e9e769e3cbe4783/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cd212eba03fa582e6e9e769e3cbe4783/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/45640491904f59d9a7d1c827f8734bfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/45640491904f59d9a7d1c827f8734bfe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/73b976117f0587d2135e19e4cdb7feca/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/73b976117f0587d2135e19e4cdb7feca/AndroidManifest.xml:20:5-22:41
+MERGED from [uk.co.samuelwall:material-tap-target-prompt:2.3.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/material-tap-target-prompt-2.3.0.aar/45edef022df7b26eff86e7cdec2a119a/AndroidManifest.xml:23:5-25:41
+MERGED from [uk.co.samuelwall:material-tap-target-prompt:2.3.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/material-tap-target-prompt-2.3.0.aar/45edef022df7b26eff86e7cdec2a119a/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:support-v4:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/5820c4e2eac9060109e2775c0c245b52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/5820c4e2eac9060109e2775c0c245b52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/597b2d9fc132de505acc898bd49d12fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/597b2d9fc132de505acc898bd49d12fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/c5f6886a418fd95d39a600025ac2a3dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/c5f6886a418fd95d39a600025ac2a3dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3b8aeb6be859c89a7a3d101baa071b07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3b8aeb6be859c89a7a3d101baa071b07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/067979af9e8edcfd7d97f69295a62f56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/067979af9e8edcfd7d97f69295a62f56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/995a976b478fc855b24178446cac2779/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/995a976b478fc855b24178446cac2779/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/fefddeee55fa937db8bae4fe036ee600/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/fefddeee55fa937db8bae4fe036ee600/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/3f9cf952c48fbcbeab701cd0b1253ad6/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/3f9cf952c48fbcbeab701cd0b1253ad6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/7042d7b02cf4cb3ff666c04390d5ffc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/7042d7b02cf4cb3ff666c04390d5ffc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/46db0fb00de05f1fd2baf5febe315677/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/46db0fb00de05f1fd2baf5febe315677/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/309c3529a0fa5809d688f36e569be151/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/309c3529a0fa5809d688f36e569be151/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/3b9ab3118f6a629fd8ad636d2878cca1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/3b9ab3118f6a629fd8ad636d2878cca1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/74db4d342be3a740cded3ba23760d5b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/74db4d342be3a740cded3ba23760d5b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4b8277c538b7533f32be52ae58ff39e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4b8277c538b7533f32be52ae58ff39e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4784d967c3d4029bc2cbd92b5e309451/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4784d967c3d4029bc2cbd92b5e309451/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/652ac74eb5eeabfa8597bd337203314b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jackiemun1/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/652ac74eb5eeabfa8597bd337203314b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jackiemun1/Desktop/ShoppingList/app/src/main/AndroidManifest.xml

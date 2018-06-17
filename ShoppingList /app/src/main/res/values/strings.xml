@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="totalExpenseMsg">Your total expenses for items purchased is: \u0024</string>
+    <string name="errorMsg">This field cannot be empty</string>
+    <string name="instanceName">item-database</string>
+    <string name="runtimeErrorMsg">The Activity does not implement the ItemHandler interface</string>
+    <string name="title">New Item</string>
+    <string name="addTitle">Add</string>
+    <string name="newItemMsg">New Item</string>
+    <string name="helperMsg">Tap here to add a new item to your shopping list</string>
+    <string name="createItemTag">CreateAndEditPlaceDialog</string>
+    <string name="editItemTag">EditDialog</string>
+    <string name="hideMsg">Hide</string>
+    <string name="aboutMsg">You can add and delete items from the shopping list.</string>
+    <string name="itemAddedMsg">Item added</string>
+    <string name="nameHint">Item name</string>
+    <string name="typeHint">Item type</string>
+    <string name="priceHint">Estimated item price</string>
+    <string name="descriptHint">Item description</string>
+    <string name="statusHint">Already purchased</string>
+    <string name="nameText">Name</string>
+    <string name="priceText">Price : \u0024</string>
+    <string name="descriptText">Description: \</string>
+    <string name="purchasedText">Purchased</string>
+    <string name="editText">Edit Item</string>
+    <string name="deleteText">Delete</string>
+    <string name="splashScreenMsg">Welcome to ShoppingList</string>
+    <string name="settingsTitle">Settings</string>
+    <string name="addItem">Add item</string>
+    <string name="deleteAll">Delete All</string>
+    <string name="totalSpent">Total Spent</string>
+    <string name="about">About</string>
+    <string name="itemCount">Item Count: \</string>
+    <string name="zero">0</string>
+</resources>
