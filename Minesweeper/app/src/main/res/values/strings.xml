@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="newGameMsg">New Game</string>
+    <string name="flagOnMsg">Flagging on</string>
+    <string name="tryOnMsg">Try a field</string>
+    <string name="winnerMsg">YOU WON!</string>
+    <string name="loserMsg">SORRY, YOU LOST!</string>
+    <string name="btnFlagText">Flag</string>
+    <string name="btnTryText">Try</string>
+    <string name="btnNewGameText">New Game</string>
+</resources>
